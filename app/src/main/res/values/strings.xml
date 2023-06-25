@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Laba3</string>
+    <string name="channel_name">Lab3</string>
+    <string name="channel_description">Notify</string>
+    <string name="dialog_message">Exit?</string>
+    <string name="alert">toast</string>
+    <string name="yes">Да</string>
+    <string name="no">Нет</string>
+</resources>
